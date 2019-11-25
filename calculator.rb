@@ -1,3 +1,3 @@
 # Add your variables here
 
-int first_variable;
+first_variable = 0;
